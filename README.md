@@ -1,6 +1,6 @@
 # API Testing Exercises
 
-This repository contains exercise files for the Robot Dreams API testing course. It includes multiple testing frameworks and approaches for API testing practice.
+This repository contains exercise files for the robot_dreams API testing course. It includes multiple testing frameworks and approaches for API testing practice.
 
 ## Included Projects
 
