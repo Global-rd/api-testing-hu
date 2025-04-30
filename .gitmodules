@@ -1,3 +1,0 @@
-[submodule "playwright-api-testing"]
-	path = playwright-api-testing
-	url = git@github.com:tcsako/playwright-api-project.git
